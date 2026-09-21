@@ -37,10 +37,13 @@ M3 is not drawn as a separate index forecast because it consists of the intermed
 | M4 Dual physical reconstruction | 2.091 | -13.849 |
 | M5 Dual fusion ResNet | 2.037 | -6.633 |
 
-Generated figures:
+### PMM SST forecast figure
 
-- `outputs/pmm/pmm_sst/figures/03_future_forecast_all_methods.png`
-- `outputs/pmm/pmm_wind/figures/03_future_forecast_all_methods.png`
+![PMM SST all-method forecast through December 2028](outputs/pmm/pmm_sst/figures/03_future_forecast_all_methods.png)
+
+### PMM UAS forecast figure
+
+![PMM UAS all-method forecast through December 2028](outputs/pmm/pmm_wind/figures/03_future_forecast_all_methods.png)
 
 Numerical forecasts:
 
