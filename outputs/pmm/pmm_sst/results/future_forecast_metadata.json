@@ -1,0 +1,16 @@
+{
+  "series": "pmm_sst",
+  "last_observation": "2026-02-01",
+  "forecast_start": "2026-03-01",
+  "forecast_end": "2028-12-01",
+  "horizon_months": 34,
+  "methods": [
+    "M0 Persistence",
+    "M1 Direct NN",
+    "M2 HHSA single ResNet",
+    "M4 Dual physical reconstruction",
+    "M5 Dual fusion ResNet"
+  ],
+  "M3_role": "intermediate event/strength branches used by M4 and M5",
+  "warning": "Experimental offline/full-record decomposition; not real-time causal validation."
+}

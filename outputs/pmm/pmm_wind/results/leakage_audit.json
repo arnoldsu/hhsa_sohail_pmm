@@ -1,0 +1,9 @@
+{
+  "label": "OFFLINE / DIAGNOSTIC \u2014 NOT REAL-TIME",
+  "full_record_decomposition": true,
+  "chronological_split": true,
+  "scalers_training_only": true,
+  "random_time_shuffle": false,
+  "M5_fusion_training": "validation-period base predictions only",
+  "nan_input_count": 0
+}

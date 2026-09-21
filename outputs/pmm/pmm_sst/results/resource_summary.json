@@ -1,0 +1,9 @@
+{
+  "series": "pmm_sst",
+  "wall_s": 27.039884567260742,
+  "peak_rss_mib": 454.7578125,
+  "mean_cpu_percent": 92.77037037037037,
+  "imf_carriers": 6,
+  "residual_components": 1,
+  "offline_full_record": true
+}
