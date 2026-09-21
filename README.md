@@ -1,5 +1,7 @@
 # hs_index
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22884259.svg)](https://doi.org/10.5281/zenodo.22884201)
+
 Reusable function wrapping the proven `hhsa_sohail_n34` M0–M5 experiment for any monthly one-dimensional index.
 
 ```python
